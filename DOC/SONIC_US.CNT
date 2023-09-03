@@ -1,0 +1,61 @@
+:Base Sonic.hlp
+1 Game selection
+2 Game selection=IDH_GAMESELECTION
+1 How to play
+2 How to play=IDH_HOWTOPLAY
+2 1P Mode
+3 1P Mode=IDH_1PMODE
+3 Data select
+4 Saving data while playing=IDH_SAVINGDATA
+4 Playing without saving data=IDH_PLAYING
+4 Character selection=IDH_CHARASELECT
+4 When continuing a game=IDH_WHEN
+4 Erasing saved data=IDH_ERASING
+3 Information
+4 Screen view=IDH_SCREENVIEW
+4 Game over & Continue screens=IDH_GAMEOVER
+4 Don't forget to take a breather when you're in the water=IDH_DONTFORGET
+4 Start again with the point marker=IDH_STARTAGAIN
+4 Collect 50 rings to across a bonus stage=IDH_COLLECT
+4 Use Attacks in suspicious places=IDH_USEATTACK
+4 Special rings & special stages=IDH_SPECIALRINGS
+4 Items & power ups=IDH_ITEMS
+4 Barrier effect & special attacks=IDH_BARRIER
+4 How to attack a Boss character=IDH_HOWTOATTACK
+4 Act clear=IDH_ACTCLEAR
+2 Competiton mode
+3 Competition mode=IDH_COMPETITION
+3 Mode select=IDH_MODESELECT
+3 Item on/off=IDH_ITEMONOFF
+3 Operation and Screen View=IDH_OPERATION
+3 About other Screens=IDH_ABOUTOTHER
+3 Challenge menu=IDH_CHALLENGEMENU
+3 Challenge Mode Items=IDH_CHALLENGEMODE
+1 Basic operation
+2 Keyboard+Joystick Operation=IDH_KEYBOARD+
+2 Special Action=IDH_SPECIALACTION
+2 Full Screen=IDH_FULLSCREEN
+2 Pause=IDH_PAUSE
+2 Restarting the Game=IDH_RESTARTING
+2 Reset=IDH_RESET
+2 Quitting the Game=IDH_QUITTING
+1 Menu Bar
+2 Game Menu=IDH_GAMEMENU
+2 Options=IDH_OPTIONS
+2 Help Menu=IDH_HELPMENU
+1 Special Stage and Bonus Stage
+2 Special Stage=IDH_SPECIALSTAGE
+2 Bonus Stage=IDH_BONUSSTAGE
+2 If you're playing SONIC THE HEDGEHOG 3 and KNUCKLES=IDH_SPECIALS&K
+1 Character Introduction
+2 Character Introduction=IDH_CHARACTER
+1 Story
+2 After Sonic 2's adventures...=IDH_AFTER2
+2 Sonic and Tails' departure=IDH_SONICANDTAILS
+2 Dr.Robotnik's plot=IDH_DREGGMANSPLOT
+1 How to use help
+2 How to use help=IDH_HOWTOUSE
+1 Hotline
+2 Hotline=IDH_HOTLINE
+1 Others
+2 Others=IDH_OTHERS

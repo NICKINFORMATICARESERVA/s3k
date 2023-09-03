@@ -1,0 +1,15 @@
+[autorun]
+OPEN=SETUP.EXE
+ICON=SETUP.EXE
+
+[Program Settings]
+Sonic & Knuckles Collection
+Install.EXE \Install\
+Snip.bmp
+Expert.exe
+NONE
+SonicKnu.pdf
+Readme.txt 
+Install.exe
+SonicKnu
+X6820

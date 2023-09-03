@@ -1,0 +1,61 @@
+:Base Sonic.hlp
+1 Selección de juego
+2 Selección de juego=IDH_GAMESELECTION
+1 Cómo jugar
+2 Cómo jugar=IDH_HOWTOPLAY
+2 Modo de un jugador
+3 Modo de un jugador=IDH_1PMODE
+3 Selección de datos
+4 Cómo guardar los datos mientras se juega=IDH_SAVINGDATA
+4 Cómo jugar sin guardar los datos=IDH_PLAYING
+4 Selección de personaje=IDH_CHARASELECT
+4 Continuación del juego=IDH_WHEN
+4 Borrado de datos previamente guardados=IDH_ERASING
+3 Información
+4 Vista de pantalla=IDH_SCREENVIEW
+4 Conclusión del juego y pantallas de continuación=IDH_GAMEOVER
+4 No te olvides de salir a respirar cuando estés sumergido=IDH_DONTFORGET
+4 Empieza otra vez con la señal de puntos=IDH_STARTAGAIN
+4 Consigue 50 anillos para entrar en una fase de puntos extra=IDH_COLLECT
+4 Pon en práctica los "ataques" en los lugares sospechosos=IDH_USEATTACK
+4 Anillos y fases especiales=IDH_SPECIALRINGS
+4 Objetos y premios=IDH_ITEMS
+4 Efecto barrera y ataques especiales=IDH_BARRIER
+4 Cómo atacar a un Guardián=IDH_HOWTOATTACK
+4 Superación de un acto=IDH_ACTCLEAR
+2 Modo de competición
+3 Modo de competición=IDH_COMPETITION
+3 Selección de modo=IDH_MODESELECT
+3 Activación y desactivación de objetos=IDH_ITEMONOFF
+3 Funcionamiento del juego y vista de pantalla=IDH_OPERATION
+3 Otras pantallas=IDH_ABOUTOTHER
+3 Circuitos del menú de riesgo para dos jugadores=IDH_CHALLENGEMENU
+3 Objetos del modo de riesgo para dos jugadores=IDH_CHALLENGEMODE
+1 Funcionamiento básico
+2 Funcionamiento del teclado/joystick=IDH_KEYBOARD+
+2 Poderes especiales=IDH_SPECIALACTION
+2 Pantalla completa=IDH_FULLSCREEN
+2 Parada del juego=IDH_PAUSE
+2 Reiniciación del juego=IDH_RESTARTING
+2 Restauración de la pantalla=IDH_RESET
+2 Salida del juego=IDH_QUITTING
+1 Barra de menús
+2 Menú del juego=IDH_GAMEMENU
+2 Opciones=IDH_OPTIONS
+2 Menú de la Ayuda=IDH_HELPMENU
+1 Fases especiales y fases de puntos extra
+2 Fases especiales=IDH_SPECIALSTAGE
+2 Fases de puntos extra=IDH_BONUSSTAGE
+2 Si decides jugar con SONIC THE HEDGEHOG 3 & KNUCKLES...=IDH_SPECIALS&K
+1 Presentación de los personajes
+2 Presentación de los personajes=IDH_CHARACTER
+1 Historia del juego
+2 Continuación de las aventuras de Sonic 2...=IDH_AFTER2
+2 El viaje de Sonic y Tails=IDH_SONICANDTAILS
+2 La trama de Robotnik=IDH_DREGGMANSPLOT
+1 Cómo utilizar la ayuda
+2 Cómo utilizar la ayuda=IDH_HOWTOUSE
+1 Línea de asistencia
+2 Línea de asistencia=IDH_HOTLINE
+1 Información adicional
+2 Información adicional=IDH_OTHERS

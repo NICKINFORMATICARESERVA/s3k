@@ -1,0 +1,61 @@
+:Base Sonic.hlp
+1 Spielauswahl
+2 Spielauswahl =IDH_GAMESELECTION
+1 So wird gespielt
+2 So wird gespielt =IDH_HOWTOPLAY
+2 1-Spieler-Modus
+3 1-Spieler-Modus=IDH_1PMODE
+3 Datenauswahl
+4 Daten während des Spieles speichern=IDH_SAVINGDATA
+4 Ohne Datenspeicherung spielen=IDH_PLAYING
+4 Figurenauswahl=IDH_CHARASELECT
+4 Ein Spiel weiterspielen=IDH_WHEN
+4 Gespeicherte Daten löschen=IDH_ERASING
+3 Information
+4 Bildschirmansicht=IDH_SCREENVIEW
+4 Bildschirme Game over & Continue=IDH_GAMEOVER
+4 Vergessen Sie im Wasser das Atmen nicht=IDH_DONTFORGET
+4 Erneut starten bei der Ortsmarkierung=IDH_STARTAGAIN
+4 Sammeln Sie 50 Ringe, um auf eine Bonusebene zu gelangen=IDH_COLLECT
+4 Angriffe an verdächtigen Orten=IDH_USEATTACK
+4 Spezialringe & Sonderebenen=IDH_SPECIALRINGS
+4 Objekte & Aufrüstpunkte=IDH_ITEMS
+4 Schutzschildeffekt & Spezialangriffe=IDH_BARRIER
+4 So greifen Sie einen Boß an=IDH_HOWTOATTACK
+4 Szene beendet=IDH_ACTCLEAR
+2 Wettkampfmodus
+3 Wettkampfmodus=IDH_COMPETITION
+3 Modusauswahl=IDH_MODESELECT
+3 Option An/Aus=IDH_ITEMONOFF
+3 Betriebs- und Bildschirmansicht=IDH_OPERATION
+3 Info zu anderen Bildschirmen=IDH_ABOUTOTHER
+3 Menü Challenge =IDH_CHALLENGEMENU
+3 Challenge-Optionen=IDH_CHALLENGEMODE
+1 Grundbetriebsweise
+2 Tastatur- und Joystick-Betrieb=IDH_KEYBOARD+
+2 Spezialaktionen=IDH_SPECIALACTION
+2 Vollbildschirm=IDH_FULLSCREEN
+2 Pause=IDH_PAUSE
+2 Spiel neu starten=IDH_RESTARTING
+2 Zurücksetzen=IDH_RESET
+2 Spiel beenden=IDH_QUITTING
+1 Menüleiste
+2 Menü Game =IDH_GAMEMENU
+2 Optionen=IDH_OPTIONS
+2 Menü Help=IDH_HELPMENU
+1 Sonderebene und Bonusebene
+2 Sonderebene=IDH_SPECIALSTAGE
+2 Bonusebene=IDH_BONUSSTAGE
+2 Wenn Sie SONIC THE HEDGEHOG 3 und KNUCKLES spielen=IDH_SPECIALS&K
+1 Figurenvorstellung
+2 Figurenvorstellung=IDH_CHARACTER
+1 Handlung
+2 Nach den Abenteuern von Sonic 2...=IDH_AFTER2
+2 Sonics und Tails' Abreise=IDH_SONICANDTAILS
+2 Dr. Robotniks Plan=IDH_DREGGMANSPLOT
+1 So benutzen Sie die Hilfe
+2 So benutzen Sie die Hilfe=IDH_HOWTOUSE
+1 Hotline
+2 Hotline=IDH_HOTLINE
+1 Verschiedenes
+2 Verschiedenes=IDH_OTHERS

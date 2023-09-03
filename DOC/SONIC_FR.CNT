@@ -1,0 +1,61 @@
+:Base Sonic.hlp
+1 Sélection de jeu
+2 Sélection de jeu=IDH_GAMESELECTION
+1 Comment jouer
+2 Comment jouer=IDH_HOWTOPLAY
+2 Mode 1P
+3 Mode 1P=IDH_1PMODE
+3 Sélection de données
+4 Enregistrer les données au cours du jeu=IDH_SAVINGDATA
+4 Jouer sans enregistrer les données=IDH_PLAYING
+4 Sélection de personnage=IDH_CHARASELECT
+4 Lorsque vous continuez un jeu=IDH_WHEN
+4 Effacer les données enregistrées=IDH_ERASING
+3 Informations
+4 Vue écran=IDH_SCREENVIEW
+4 Ecrans Game over & Continue (Fin du jeu & Continuer)=IDH_GAMEOVER
+4 Ne pas oublier de respirer lorsque vous êtes sous l'eau=IDH_DONTFORGET
+4 Reprendre à partir du jalon=IDH_STARTAGAIN
+4 Amasser 50 anneaux pour accéder à une étape bonus=IDH_COLLECT
+4 Utiliser les attaques dans les endroits suspects=IDH_USEATTACK
+4 Anneaux spéciaux & étapes speciales=IDH_SPECIALRINGS
+4 Eléments & ravitaillements=IDH_ITEMS
+4 Barrières & attaques spéciales=IDH_BARRIER
+4 Attaquer le chef de gang=IDH_HOWTOATTACK
+4 Passer un acte=IDH_ACTCLEAR
+2 Mode Compétition
+3 Mode Compétition=IDH_COMPETITION
+3 Sélection de mode=IDH_MODESELECT
+3 Elément activé/désactivé=IDH_ITEMONOFF
+3 Fonctionnement et vue écran=IDH_OPERATION
+3 A propos des autres écrans=IDH_ABOUTOTHER
+3 Menu Challenge (Défi)=IDH_CHALLENGEMENU
+3 Eléments du mode Challenge=IDH_CHALLENGEMODE
+1 Fonctionnement de base
+2 Fonctionnement du clavier et de la manette de jeu=IDH_KEYBOARD+
+2 Action spéciale=IDH_SPECIALACTION
+2 Plein Ecran=IDH_FULLSCREEN
+2 Jeu en Pause=IDH_PAUSE
+2 Début du jeu=IDH_RESTARTING
+2 Réinitialiser=IDH_RESET
+2 Quitter le jeu=IDH_QUITTING
+1 Barre de Menu
+2 Menu Game (Jeu)=IDH_GAMEMENU
+2 Options=IDH_OPTIONS
+2 Menu d'Aide=IDH_HELPMENU
+1 Etape spéciale et étape bonus
+2 Etape spéciale=IDH_SPECIALSTAGE
+2 Etape bonus=IDH_BONUSSTAGE
+2 Si vous jouez à SONIC THE HEDGEHOG 3 et KNUCKLES=IDH_SPECIALS&K
+1 Présentation des personnages
+2 Présentation des personnages=IDH_CHARACTER
+1 Histoire
+2 Après les aventures de Sonic 2...=IDH_AFTER2
+2 Le départ de Sonic et Tails=IDH_SONICANDTAILS
+2 Le complot du Dr.Robotnik=IDH_DREGGMANSPLOT
+1 Comment utiliser l'aide
+2 Comment utiliser l'aide=IDH_HOWTOUSE
+1 Ligne ouverte
+2 Ligne ouverte=IDH_HOTLINE
+1 Autres
+2 Autres=IDH_OTHERS
